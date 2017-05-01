@@ -1,0 +1,16 @@
+name = Charity
+description = Theme for Open Charity.
+core = 7.x
+
+stylesheets[all][] = assets/css/font-awesome/css/font-awesome.css
+stylesheets[all][] = assets/css/owl.carousel.min.css
+stylesheets[all][] = assets/css/owl.theme.default.css
+stylesheets[all][] = assets/css/style.css
+
+scripts[] = assets/js/owl.carousel.min.js
+scripts[] = assets/js/mischievous.js 
+
+regions[header] = Header 
+regions[content] = Content 
+regions[footer] = Footer 
+
